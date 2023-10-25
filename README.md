@@ -50,4 +50,6 @@ ENTRYPOINT ["/usr/bin/dumb-init", "--"]
 CMD ["/bin/bash", "-c", "/app/bash.sh"]
 ```
 
+## Links
 
+- https://petermalmgren.com/signal-handling-docker/
